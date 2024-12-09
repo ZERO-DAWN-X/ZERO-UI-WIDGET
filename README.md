@@ -41,29 +41,6 @@ ZERO-DAWN-X is more than just a Rainmeter skin - it's your complete development 
 
 ## 💻 Feature Arsenal
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="assets/icons/frontend.svg" width="40"/><br/>
-        <b>Frontend</b>
-      </td>
-      <td align="center">
-        <img src="assets/icons/backend.svg" width="40"/><br/>
-        <b>Backend</b>
-      </td>
-      <td align="center">
-        <img src="assets/icons/devops.svg" width="40"/><br/>
-        <b>DevOps</b>
-      </td>
-      <td align="center">
-        <img src="assets/icons/security.svg" width="40"/><br/>
-        <b>Security</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ### 🌐 Frontend Development
 - Live preview with hot reload
 - CSS preprocessor support
@@ -112,7 +89,19 @@ ZERO-DAWN-X is more than just a Rainmeter skin - it's your complete development 
 - Database GUI
 - API documentation
 
-## 🖼️ Screenshots
+### 🎨 Customization
+- 35+ premium color themes
+- Customizable layouts
+- Neon effect intensity control
+- Font customization
+
+### ⚡ Quick Access
+- Project shortcuts
+- Development tools
+- Cloud storage
+- Plugin center
+
+## 📥️ Screenshots
 
 <div align="center">
   <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; padding: 20px;">
@@ -163,29 +152,23 @@ ZERO-DAWN-X is more than just a Rainmeter skin - it's your complete development 
    3. Load the skin through Rainmeter
    ```
 
-## 🎨 Customization
-
-### Color Themes
-Choose from our extensive collection of 35+ carefully curated color themes:
+## 🎨️ Screenshots
 
 <div align="center">
-  <img src="assets/themes.gif" alt="Color Themes" width="600"/>
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; padding: 20px;">
+    <img src="ScreenShots/1.png" width="200" alt="Screenshot 1"/>
+    <img src="ScreenShots/2.png" width="200" alt="Screenshot 2"/>
+    <img src="ScreenShots/3.png" width="200" alt="Screenshot 3"/>
+    <img src="ScreenShots/4.png" width="200" alt="Screenshot 4"/>
+  </div>
+  
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; padding: 20px;">
+    <img src="ScreenShots/5.png" width="200" alt="Screenshot 5"/>
+    <img src="ScreenShots/6.png" width="200" alt="Screenshot 7"/>
+    <img src="ScreenShots/7.png" width="200" alt="Screenshot 8"/>
+    <img src="ScreenShots/8.png" width="200" alt="Screenshot 6"/>
+  </div>
 </div>
-
-### Layout Options
-Customize the layout to match your workflow:
-- Compact Mode
-- Extended View
-- Developer Layout
-- Minimal Interface
-
-## ⚙️ Configuration
-
-Access the settings through the theme button:
-- 🎨 Theme selection
-- 📐 Layout options
-- 🔧 Widget settings
-- ⚡ Performance modes
 
 ## 📄 License
 
