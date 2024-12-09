@@ -1,11 +1,17 @@
 <div align="center">
-  <img src="assets/logo.png" alt="ZERO-DAWN-X Logo" width="200"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png">
+    <img alt="ZERO-DAWN-X" src="assets/logo-light.png" width="320">
+  </picture>
 
-  # ZERO-DAWN-X Modern UI
+  # ZERO-DAWN-X Development Suite
   
   <p align="center">
-    A premium collection of elegantly designed Rainmeter widgets for developers
+    A comprehensive development environment with elegant UI for full-stack developers
     <br />
+    <b>One Suite. All Tools. Maximum Productivity.</b>
+    <br /><br />
     <a href="#features">Features</a>
     ·
     <a href="#installation">Installation</a>
@@ -20,18 +26,68 @@
   ![License](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-green?style=for-the-badge)
 </div>
 
-## ✨ Overview
+## 🚀 The Ultimate Developer Dashboard
 
-ZERO-DAWN-X is a meticulously crafted Rainmeter suite designed specifically for developers. It combines elegant aesthetics with powerful functionality to enhance your development workflow.
+ZERO-DAWN-X is more than just a Rainmeter skin - it's your complete development command center. Designed for full-stack developers, DevOps engineers, and system administrators who demand both functionality and aesthetics.
 
-### 🎯 Key Highlights
+### 🎯 Why ZERO-DAWN-X?
 
-- 🎨 **Modern UI Design** - Clean, minimalist interface with smooth animations
-- 🌈 **35+ Color Themes** - Extensive palette of carefully curated colors
-- ⚡ **Quick Access Tools** - Instant access to your development essentials
-- 🛠️ **Developer Features** - Git integration, terminal controls, and more
-- ✨ **Neon Effects** - Beautiful glow effects and transitions
-- 🎯 **Productivity Focus** - Streamlined for developer workflow
+- 🔥 **All-in-One Solution** - Everything from API testing to server monitoring
+- 🎨 **Premium UI/UX** - Meticulously crafted interface with smooth animations
+- ⚡ **Performance Focused** - Lightweight yet powerful, optimized for productivity
+- 🛠️ **Extensive Toolset** - Complete development toolkit at your fingertips
+- 🌐 **Full-Stack Ready** - Support for multiple technologies and frameworks
+- 🔐 **Secure by Design** - Built with security best practices
+
+## 💻 Feature Arsenal
+
+### 🌐 Frontend Development
+- Live preview with hot reload
+- CSS preprocessor support
+- Component library integration
+- Asset optimization tools
+- Responsive design testing
+- Framework templates (React, Vue, Angular)
+
+### ⚙️ Backend Development
+- API endpoint testing
+- Database management
+- Server health monitoring
+- Microservices dashboard
+- Cache management
+- Service discovery tools
+
+### 🔧 DevOps Tools
+- Docker container management
+- CI/CD pipeline monitoring
+- Kubernetes cluster overview
+- Log aggregation
+- Performance metrics
+- Deployment controls
+
+### 🔐 Security Features
+- SSL certificate monitoring
+- Security scan results
+- Authentication status
+- Firewall rules management
+- Access log monitoring
+- Security alert center
+
+### 📊 Analytics & Monitoring
+- Real-time performance graphs
+- Error tracking
+- User session analytics
+- Resource utilization
+- Response time monitoring
+- Custom metric tracking
+
+### 🛠️ Development Tools
+- Git repository management
+- Code quality metrics
+- Package manager integration
+- Terminal access
+- Database GUI
+- API documentation
 
 ## 🖼️ Screenshots
 
