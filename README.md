@@ -107,24 +107,6 @@ ZERO-DAWN-X is more than just a Rainmeter skin - it's your complete development 
 - Database GUI
 - API documentation
 
-## 🖼️ Screenshots
-
-<div align="center">
-  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; padding: 20px;">
-    <img src="ScreenShots/1.png" width="200" alt="Screenshot 1"/>
-    <img src="ScreenShots/2.png" width="200" alt="Screenshot 2"/>
-    <img src="ScreenShots/3.png" width="200" alt="Screenshot 3"/>
-    <img src="ScreenShots/4.png" width="200" alt="Screenshot 4"/>
-  </div>
-  
-  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; padding: 20px;">
-    <img src="ScreenShots/5.png" width="200" alt="Screenshot 5"/>
-    <img src="ScreenShots/6.png" width="200" alt="Screenshot 7"/>
-    <img src="ScreenShots/7.png" width="200" alt="Screenshot 8"/>
-    <img src="ScreenShots/8.png" width="200" alt="Screenshot 6"/>
-  </div>
-</div>
-
 ## 🚀 Features
 
 ### 💻 Developer Tools
@@ -196,10 +178,10 @@ If you find this project helpful, please consider giving it a ⭐️ on GitHub!
 
 ## 📞 Contact
 
-Praveen Kavindu - [@praveenkavindu](https://twitter.com/praveenkavindu)
+Praveen Kavindu - [@praveenkavindu](https://praveenkavindu.vercel.app)
 
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/praveenkavindu">Praveen Kavindu</a>
+  Made with ❤️ by <a href="https://github.com/zero-dawn-x">ZERO-DAWN-X</a>
 </div>
