@@ -36,11 +36,18 @@ ZERO-DAWN-X is a meticulously crafted Rainmeter suite designed specifically for 
 ## 🖼️ Screenshots
 
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-    <img src="assets/screenshot1.png" width="200" alt="Main Interface"/>
-    <img src="assets/screenshot2.png" width="200" alt="Color Themes"/>
-    <img src="assets/screenshot3.png" width="200" alt="Quick Access"/>
-    <img src="assets/screenshot4.png" width="200" alt="Developer Tools"/>
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; padding: 20px;">
+    <img src="ScreenShots/1.png" width="200" alt="Screenshot 1"/>
+    <img src="ScreenShots/2.png" width="200" alt="Screenshot 2"/>
+    <img src="ScreenShots/3.png" width="200" alt="Screenshot 3"/>
+    <img src="ScreenShots/4.png" width="200" alt="Screenshot 4"/>
+  </div>
+  
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; padding: 20px;">
+    <img src="ScreenShots/5.png" width="200" alt="Screenshot 5"/>
+    <img src="ScreenShots/6.png" width="200" alt="Screenshot 7"/>
+    <img src="ScreenShots/7.png" width="200" alt="Screenshot 8"/>
+    <img src="ScreenShots/8.png" width="200" alt="Screenshot 6"/>
   </div>
 </div>
 
