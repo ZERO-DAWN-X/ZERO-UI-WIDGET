@@ -1,0 +1,23 @@
+<svg width="320" height="160" viewBox="0 0 320 160" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: 'Segoe UI', sans-serif; font-weight: 700; }
+    .primary { fill: #134EF2; }
+    .accent { fill: #37C2FF; }
+    .base { fill: #1E293B; }
+  </style>
+  
+  <!-- Background Shape -->
+  <path class="base" d="M40 20h240c11 0 20 9 20 20v80c0 11-9 20-20 20H40c-11 0-20-9-20-20V40c0-11 9-20 20-20z" fill-opacity="0.1"/>
+  
+  <!-- Z -->
+  <path class="primary" d="M80 45h40v10l-30 40h30v10H80v-10l30-40H80z"/>
+  <!-- D -->
+  <path class="accent" d="M140 45h25c11 0 20 9 20 20v25c0 11-9 20-20 20h-25zm10 10v45h15c5.5 0 10-4.5 10-10V65c0-5.5-4.5-10-10-10z"/>
+  <!-- X -->
+  <path class="primary" d="M200 45l15 30-15 30h12l9-18 9 18h12l-15-30 15-30h-12l-9 18-9-18z"/>
+  
+  <!-- Dots -->
+  <circle class="accent" cx="160" cy="105" r="4"/>
+  <circle class="primary" cx="170" cy="105" r="4"/>
+  <circle class="accent" cx="180" cy="105" r="4"/>
+</svg> 
